@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/resume-django-react-pdf", {data:[{}],fetch:{},mutations:void 0});

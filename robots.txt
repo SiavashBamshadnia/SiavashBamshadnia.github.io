@@ -1,0 +1,2 @@
+Disallow: /cv-pdf/
+Disallow: /fa/cv-pdf/
